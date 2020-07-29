@@ -3,3 +3,4 @@ hello
 hi
 change
 master1
+color1
